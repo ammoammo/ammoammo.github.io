@@ -1,3 +1,3 @@
-exports.test = (params) => {
+export function test(params) {
   alert(params);
-};
+}
