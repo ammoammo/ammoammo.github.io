@@ -1,4 +1,4 @@
-import { test } from "./api";
+import { test } from "./api.js";
 (function () {
   test("qqq");
 })();
